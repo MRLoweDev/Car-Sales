@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Total = props => {
   return (
     <div className="content">
@@ -8,4 +7,4 @@ const Total = props => {
   );
 };
 
-export default Total;
+export default Total; 
